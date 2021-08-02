@@ -34,7 +34,7 @@ class GetImage {
     final int? height;
     final String? color;
     final String? blurHash;
-    final dynamic? description;
+    final dynamic description;
     final String? altDescription;
     final Urls? urls;
     final GetImageLinks? links;
